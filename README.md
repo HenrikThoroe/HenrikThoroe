@@ -1,16 +1,19 @@
-### Hi there 👋
+![Hero Image](./logo.svg)
 
-<!--
-**HenrikThoroe/HenrikThoroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, World!
 
-Here are some ideas to get you started:
+Hi, my name is Henrik :wave: I am a student from northern Germany and born in 2003. Coding is how I can express my mind. That's why I love it so much :heart: I enjoy creating web apps with React and TypeScript as much as I love to write iOS and macOS Apps with Swift. While I do so I am always looking for other languages or frameworks I can learn to unlock more possibilities to express my creativity. It's so exiting!<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+=> Check out my portfolio website [thoroee.com](https:://www.thoroee.com) and have a detailed look at all (most) of my projects and my CV.
+
+## What I Love :heart:
+- Solving tricky problems and seeing my solution to work
+- Creating stunning UIs 
+- Learning new exiting stuff all day
+- Everything with numbers 
+    - Physics, Informatics and of course Math itself
+
+## Do you want to talk?
+Feel free to contact me at my email address [henrik@thoroee.com](mailto:henrik@thoroee.com) if you have any questions or just want to talk a little.
+
+
