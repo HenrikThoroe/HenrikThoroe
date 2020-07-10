@@ -1,4 +1,4 @@
-![Hero Image](./logo.svg)
+![Hero Image](.https://raw.githubusercontent.com/HenrikThoroe/HenrikThoroe/master/logo.svg)
 
 # Hello, World!
 
